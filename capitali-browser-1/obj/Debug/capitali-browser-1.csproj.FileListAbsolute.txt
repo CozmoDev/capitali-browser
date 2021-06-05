@@ -1,0 +1,10 @@
+C:\Users\AlexM\source\repos\capitali-browser-1\capitali-browser-1\bin\Debug\capitali-browser-1.exe.config
+C:\Users\AlexM\source\repos\capitali-browser-1\capitali-browser-1\bin\Debug\capitali-browser-1.exe
+C:\Users\AlexM\source\repos\capitali-browser-1\capitali-browser-1\bin\Debug\capitali-browser-1.pdb
+C:\Users\AlexM\source\repos\capitali-browser-1\capitali-browser-1\obj\Debug\capitali-browser-1.csprojAssemblyReference.cache
+C:\Users\AlexM\source\repos\capitali-browser-1\capitali-browser-1\obj\Debug\capitali_browser_1.Form1.resources
+C:\Users\AlexM\source\repos\capitali-browser-1\capitali-browser-1\obj\Debug\capitali_browser_1.Properties.Resources.resources
+C:\Users\AlexM\source\repos\capitali-browser-1\capitali-browser-1\obj\Debug\capitali-browser-1.csproj.GenerateResource.cache
+C:\Users\AlexM\source\repos\capitali-browser-1\capitali-browser-1\obj\Debug\capitali-browser-1.csproj.CoreCompileInputs.cache
+C:\Users\AlexM\source\repos\capitali-browser-1\capitali-browser-1\obj\Debug\capitali-browser-1.exe
+C:\Users\AlexM\source\repos\capitali-browser-1\capitali-browser-1\obj\Debug\capitali-browser-1.pdb
